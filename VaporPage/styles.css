@@ -1,0 +1,29 @@
+html{
+    font-size: 16px;
+    min-height: 100vh;
+}
+body{
+    background-image: url(vektroid.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+.logo{
+    width: 64px;
+    border-radius: 40%;
+}
+.mute{
+    font-size: 3rem;
+    padding: 10px 20px;
+    color: #88FFE1;
+    background-color: #a688ff9d;
+    border-radius: 10%;
+}
+.articulo{
+    background-color: #40222a96;
+    border-radius: 6px;
+}
+.caja{
+    width: 1000px;
+    height: 1000px;
+    border: #88FFE1 dotted;
+}
